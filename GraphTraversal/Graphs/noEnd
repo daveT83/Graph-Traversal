@@ -1,0 +1,36 @@
+Test_Tree_01
+11
+Node_01 1
+Node_02 1
+Node_03 1
+Node_04 1
+Node_05 1
+Node_06 1
+Node_07 1
+Node_08 1
+Node_09 1
+Node_10 1
+Node_11 1
+Node_01 2
+Node_02
+Node_03
+Node_02 1
+Node_04
+Node_03 2
+Node_07
+Node_08
+Node_04 2
+Node_05
+Node_06
+Node_05 0
+Node_06 0
+Node_07 1
+Node_09
+Node_08 2
+Node_10
+Node_11
+Node_09 0
+Node_10 0
+Node_11 0
+Node_01
+Node_12
